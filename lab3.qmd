@@ -1,6 +1,6 @@
 ---
 title: "Lab-3"
-format: html
+format: pdf
 editor: visual
 ---
 
@@ -39,4 +39,8 @@ library(dplyr)
 iris2 <- arrange(iris, Petal.Length)
 head(iris2)
 ```
+
+## Question-8
+
+![](images/commit.png)
 
